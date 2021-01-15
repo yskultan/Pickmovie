@@ -1,4 +1,4 @@
-# PicMovie
+# PickMovie
 
 Created with Vue.js and Vuesax
 
